@@ -1,0 +1,5 @@
+export("calc.VAR.spec.from.coefs", "calculate.VAR",
+       "Init.var", "plot_VAR.Phase.details", "plot_VAR.spectra", "simulate.VAR")
+importFrom("graphics", "legend", "par", "axis")
+importFrom("stats", "rnorm","as.ts","plot.ts")
+importFrom("utils", "read.table")

@@ -1,0 +1,17 @@
+6a90ed2e75011d25dce76ffebe3cfeb9 *DESCRIPTION
+b064cf712e08aed49980f4f114b2e93c *NAMESPACE
+db6b6c03e479b7d838966234a8fd3d2a *R/VAR_procs_20240530.R
+980bced5cd560f9e1e85485753a542ff *build/partial.rdb
+c89d53cbfb580e0c6e5cf572eb65f38c *data/VAR.inv.roots.from.det.cross.rda
+1daa60bb27839e17f7c557adf9259d0f *data/VAR.inv.roots.from.eta.ksi.zeta.rda
+028b9304e88478fa2095714881f50026 *inst/extdata/VAR.inv.roots.from.det.cross.txt
+81ac4092c14c0ce23e33b2bbfd8df041 *inst/extdata/VAR.inv.roots.from.eta.ksi.zeta.txt
+146fa87e3e327dfe93f1b44f21f30f9a *man/Init.var.Rd
+3a160d2338ce594b0210abdc8ea4776e *man/VAR.inv.roots.from.det.cross.Rd
+bc7986297f3fe21fdd3de64575e7b05c *man/VAR.inv.roots.from.eta.ksi.zeta.Rd
+1aea5f3a967c335e72fcfffc88bcfddd *man/VAR.spec-package.Rd
+1de9ce10cb95f673b8f2621f08bf9a29 *man/calc.VAR.spec.from.coefs.Rd
+b6372144236d6118320e356715da2556 *man/calculate.VAR.Rd
+00f256de58ebd630b910f98efaea2ce8 *man/plot_VAR.Phase.details.Rd
+9d58b9a4fd6cf2959d83daaf8f3e85f7 *man/plot_VAR.spectra.Rd
+a01ea2678227223f9c935d84511704fb *man/simulate.VAR.Rd
